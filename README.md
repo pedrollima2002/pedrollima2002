@@ -1,16 +1,11 @@
-# Olá! Eu sou Pedro Lima 👋
+# Olá, eu sou Pedro Henrique 👋
 
-💻 Desenvolvedor em evolução focado em:
-- Python
-- Automação
-- Desenvolvimento Web
-- Análise de Dados
+Sou formado em **Gestão de Tecnologia da Informação** e estou em busca da minha **primeira oportunidade profissional na área de TI**.
 
-📚 Atualmente estudando:
-- APIs
-- Banco de Dados
-- Automação com Python
-- Desenvolvimento Full Stack
+Tenho desenvolvido projetos práticos utilizando **Python, JavaScript, HTML, CSS, SQL e Supabase**, com foco principalmente em **desenvolvimento web, automação de tarefas e soluções para problemas reais**.
+
+Atualmente, continuo aprimorando meus conhecimentos em **Python, APIs, bancos de dados e desenvolvimento de aplicações web**.
+
 
 🚀 Objetivo:
 Construir projetos reais, evoluir como desenvolvedor e criar soluções úteis através da tecnologia.
