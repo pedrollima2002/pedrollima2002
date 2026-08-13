@@ -12,27 +12,48 @@ Construir projetos reais, evoluir como desenvolvedor e criar soluções úteis a
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* **Linguagens:** Python, JavaScript, HTML e CSS
+* **Banco de Dados:** SQL e PostgreSQL
+* **Backend / Serviços:** Supabase
+* **Automação e Dados:** Pandas e PyAutoGUI
+* **Versionamento:** Git e GitHub
+* **Ferramentas:** VS Code e MySQL Workbench
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-- 📦 Automação de estoque
-- 📊 Análise de cancelamentos
-- 🌐 Portfólio pessoal
+### 📦 Controle de Estoque — RPG Multimarcas
+
+Sistema web desenvolvido para gerenciar o estoque da minha loja, permitindo cadastro, edição e controle de produtos em tempo real.
+
+**Tecnologias:** HTML, CSS, JavaScript e Supabase.
+
+🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/estoque-rpg)
+
+---
+
+### 🤖 Automação de Cadastro de Produtos
+
+Automação desenvolvida em Python para reduzir tarefas repetitivas no processo de cadastro de produtos.
+
+**Tecnologias:** Python, Pandas, PyAutoGUI e CSV.
+
+🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/Automa-a-de-estoque)
+
+---
+
+### 📊 Análise de Cancelamentos
+
+Projeto de análise de dados desenvolvido para identificar padrões e possíveis causas de cancelamentos de clientes.
+
+**Tecnologias:** Python, Pandas e análise de dados.
+
+🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/ANALISE-DE-CANCELAMENTO)
+
 
 ---
 
