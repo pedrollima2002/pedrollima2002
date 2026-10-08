@@ -1,79 +1,39 @@
-# Olá, eu sou Pedro Henrique 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Pedro Henrique Lima — Desenvolvedor Júnior, JavaScript, Python e Supabase" width="100%">
+</p>
 
-Sou formado em **Gestão de Tecnologia da Informação** e estou em busca da minha **primeira oportunidade profissional na área de TI**.
+<p align="center">
+  <a href="https://pedrollima2002.github.io/portifolio_pessoal/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/pedro-lima-a56331310/">LinkedIn</a> ·
+  <a href="mailto:pd200224@gmail.com">E-mail</a>
+</p>
 
-Tenho desenvolvido projetos práticos utilizando **Python, JavaScript, HTML, CSS, SQL e Supabase**, com foco principalmente em **desenvolvimento web, automação de tarefas e soluções para problemas reais**.
+Sou desenvolvedor em início de carreira, formado em **Gestão de Tecnologia da Informação em 2025**. Transformo necessidades operacionais em aplicações web, automações e análises de dados — com atenção a regras de negócio, validação, documentação e experiência de uso.
 
-Atualmente, continuo aprimorando meus conhecimentos em **Python, APIs, bancos de dados e desenvolvimento de aplicações web**.
+## Projetos selecionados
 
+| Projeto | O que resolve | Evidências |
+|---|---|---|
+| **Controle de Estoque — RPG Multimarcas** | Organiza estoque real com autenticação, banco de dados e conferência por categorias. | [Demonstração](https://pedrollima2002.github.io/estoque-rpg/) · [Código](https://github.com/pedrollima2002/estoque-rpg) |
+| **Análise de Cancelamentos** | Investiga fatores associados ao churn com limpeza, visualização e limites de interpretação documentados. | [Estudo e notebook](https://github.com/pedrollima2002/analise-de-cancelamento) |
+| **Automação de Cadastro** | Automatiza uma tarefa repetitiva a partir de CSV, com validações, simulação segura, logs, retomada e testes. | [Código e instruções](https://github.com/pedrollima2002/automacao-de-estoque) |
+| **Controle Financeiro** | PWA local e privada para receitas, despesas, recorrências, relatórios e backups criptografados. | [Código e documentação](https://github.com/pedrollima2002/controle-financeiro) |
 
-🚀 Objetivo:
-Construir projetos reais, evoluir como desenvolvedor e criar soluções úteis através da tecnologia.
+## Competências aplicadas
 
----
+- **Web:** JavaScript, HTML, CSS, responsividade, acessibilidade e PWA.
+- **Dados e backend:** SQL, PostgreSQL, Supabase, autenticação e regras de acesso.
+- **Python:** Pandas, Plotly, automação com PyAutoGUI, validação de dados e testes.
+- **Entrega:** Git, GitHub, documentação técnica, deploy e evolução orientada a problemas reais.
 
-## 🛠️ Tecnologias e Ferramentas
+## Experiência que levo para tecnologia
 
-* **Linguagens:** Python, JavaScript, HTML e CSS
-* **Banco de Dados:** SQL e PostgreSQL
-* **Backend / Serviços:** Supabase
-* **Automação e Dados:** Pandas e PyAutoGUI
-* **Versionamento:** Git e GitHub
-* **Ferramentas:** VS Code e MySQL Workbench
+Minha experiência como **bordador líder** desenvolveu disciplina operacional, controle de qualidade, organização de fluxo e responsabilidade sobre entregas. Hoje aplico essa visão à tecnologia: entendo o processo antes de propor a solução e trato confiabilidade como parte do produto.
 
+## Contato
 
----
+Estou buscando uma oportunidade como **desenvolvedor júnior**, com abertura para desenvolvimento web, automação ou dados.
 
-## 🚀 Projetos em Destaque
-
-### 📦 Controle de Estoque — RPG Multimarcas
-
-Sistema web desenvolvido para gerenciar o estoque da minha loja, permitindo cadastro, edição e controle de produtos em tempo real.
-
-**Tecnologias:** HTML, CSS, JavaScript e Supabase.
-
-🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/estoque-rpg)
-
----
-
-### 🤖 Automação de Cadastro de Produtos
-
-Automação desenvolvida em Python para reduzir tarefas repetitivas no processo de cadastro de produtos.
-
-**Tecnologias:** Python, Pandas, PyAutoGUI e CSV.
-
-🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/Automa-a-de-estoque)
-
----
-
-### 📊 Análise de Cancelamentos
-
-Projeto de análise de dados desenvolvido para identificar padrões e possíveis causas de cancelamentos de clientes.
-
-**Tecnologias:** Python, Pandas e análise de dados.
-
-🔗 [Ver projeto no GitHub](https://github.com/pedrollima2002/ANALISE-DE-CANCELAMENTO)
-
-
----
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/pedro-lima-a56331310/
-- Email: pd200224@gmail.com
-
- 
-<!--
-**pedrollima2002/pedrollima2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/pedro-lima-a56331310/)
+- [Portfólio](https://pedrollima2002.github.io/portifolio_pessoal/)
+- [E-mail](mailto:pd200224@gmail.com)

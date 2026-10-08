@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Henrique Lima — Desenvolvedor Júnior</title>
+  <desc id="desc">Banner profissional em azul escuro com detalhes verdes e azuis.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0d2035"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8f34b"/>
+      <stop offset="1" stop-color="#62d9ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <circle cx="1080" cy="52" r="150" fill="#62d9ff" opacity=".07"/>
+  <circle cx="1010" cy="306" r="190" fill="#b8f34b" opacity=".06"/>
+  <circle cx="1005" cy="157" r="76" fill="#62d9ff" opacity=".12" filter="url(#glow)"/>
+  <path d="M930 86h112l55 71-55 77H930l-56-77z" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".7"/>
+  <path d="M1005 112l35 45-35 48-35-48z" fill="none" stroke="#b8f34b" stroke-width="2" opacity=".8"/>
+  <rect x="72" y="58" width="92" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="125" fill="#f6f9fc" font-family="Segoe UI, Arial, sans-serif" font-size="47" font-weight="700" letter-spacing="-.5">Pedro Henrique Lima</text>
+  <text x="72" y="176" fill="#b8f34b" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">DESENVOLVEDOR JÚNIOR</text>
+  <text x="72" y="218" fill="#b7c6d8" font-family="Segoe UI, Arial, sans-serif" font-size="21">JavaScript · Python · Supabase · Automação · Dados</text>
+  <text x="72" y="264" fill="#7f93aa" font-family="Segoe UI, Arial, sans-serif" font-size="17">Goiana — PE  |  Gestão de TI · formado em 2025</text>
+</svg>
