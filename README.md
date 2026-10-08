@@ -17,7 +17,7 @@ Sou desenvolvedor em início de carreira, formado em **Gestão de Tecnologia da 
 | **Controle de Estoque — RPG Multimarcas** | Organiza estoque real com autenticação, banco de dados e conferência por categorias. | [Demonstração](https://pedrollima2002.github.io/estoque-rpg/) · [Código](https://github.com/pedrollima2002/estoque-rpg) |
 | **Análise de Cancelamentos** | Investiga fatores associados ao churn com limpeza, visualização e limites de interpretação documentados. | [Estudo e notebook](https://github.com/pedrollima2002/analise-de-cancelamento) |
 | **Automação de Cadastro** | Automatiza uma tarefa repetitiva a partir de CSV, com validações, simulação segura, logs, retomada e testes. | [Código e instruções](https://github.com/pedrollima2002/automacao-de-estoque) |
-| **Controle Financeiro** | PWA local e privada para receitas, despesas, recorrências, relatórios e backups criptografados. | [Código e documentação](https://github.com/pedrollima2002/controle-financeiro) |
+| **Controle Financeiro** | PWA local e privada para receitas, despesas, recorrências, relatórios e backups criptografados. | [Demonstração](https://pedrollima2002.github.io/controle-financeiro/) · [Código](https://github.com/pedrollima2002/controle-financeiro) |
 
 ## Competências aplicadas
 
